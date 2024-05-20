@@ -1,0 +1,1802 @@
+1
+00:00:27,440 --> 00:00:29,800
+<i>Three, two, one!</i>
+
+2
+00:00:29,880 --> 00:00:31,040
+<i>-Cheese!
+-Cheese!</i>
+
+3
+00:01:01,320 --> 00:01:04,040
+{\an8}ADAPTED FROM ZHU YI'S NOVEL,
+SHE'S A LITTLE CRAZY, ON JJWXC.NET
+
+4
+00:01:09,160 --> 00:01:10,080
+{\an8}-Kiss!
+-Kiss!
+
+5
+00:01:17,760 --> 00:01:19,920
+<i>When I Fly Towards You.</i>
+
+6
+00:01:21,840 --> 00:01:22,760
+-Thank you.
+-Bye.
+
+7
+00:01:22,840 --> 00:01:24,400
+-See you next time.
+-See you next time.
+
+8
+00:01:24,480 --> 00:01:25,360
+-All right.
+-Bye.
+
+9
+00:01:27,240 --> 00:01:30,160
+LUMING TECHNOLOGY, DRONE SEMINAR
+
+10
+00:01:40,960 --> 00:01:42,480
+Didn't you say you couldn't make it?
+
+11
+00:01:43,960 --> 00:01:46,280
+But this is your first product talk.
+
+12
+00:01:46,360 --> 00:01:47,920
+You must have wanted me to be here.
+
+13
+00:01:49,720 --> 00:01:51,280
+If you're really touched,
+
+14
+00:01:51,360 --> 00:01:52,920
+give me a substantial reward.
+
+15
+00:02:07,320 --> 00:02:08,280
+One more.
+
+16
+00:02:10,000 --> 00:02:11,400
+It's not a game with extra gameplay
+
+17
+00:02:11,480 --> 00:02:12,320
+as a prize.
+
+18
+00:02:13,080 --> 00:02:15,440
+But I've always had good luck.
+
+19
+00:02:15,520 --> 00:02:16,720
+I win a prize every time.
+
+20
+00:02:31,240 --> 00:02:32,760
+Let me take you somewhere.
+
+21
+00:02:32,840 --> 00:02:34,200
+Let's go.
+
+22
+00:02:45,160 --> 00:02:46,200
+What is this place?
+
+23
+00:02:49,080 --> 00:02:50,040
+Our home.
+
+24
+00:02:54,600 --> 00:02:56,200
+I've already bought this house.
+
+25
+00:02:56,800 --> 00:02:58,920
+I was planning to bring you here tomorrow.
+
+26
+00:03:00,200 --> 00:03:01,840
+See if there is anything you don't like.
+
+27
+00:03:06,040 --> 00:03:07,320
+{\an8}I have dreamed
+
+28
+00:03:07,400 --> 00:03:09,120
+of this scenario many times.
+
+29
+00:03:12,320 --> 00:03:13,640
+I want
+
+30
+00:03:13,720 --> 00:03:14,960
+to place a large sofa here.
+
+31
+00:03:16,280 --> 00:03:17,560
+And here,
+
+32
+00:03:17,640 --> 00:03:19,760
+a white television cabinet.
+
+33
+00:03:19,840 --> 00:03:20,760
+Here,
+
+34
+00:03:20,840 --> 00:03:23,240
+I'll hang a blue curtain.
+
+35
+00:03:27,360 --> 00:03:28,760
+It's so beautiful.
+
+36
+00:03:35,200 --> 00:03:39,280
+<i>Today is December 22nd, 2012.</i>
+
+37
+00:03:39,360 --> 00:03:40,960
+<i>Doomsday is over.</i>
+
+38
+00:03:42,120 --> 00:03:43,040
+<i>What are you filming?</i>
+
+39
+00:03:44,640 --> 00:03:45,480
+<i>Didn't you say</i>
+
+40
+00:03:45,560 --> 00:03:46,680
+<i>we would be happier</i>
+
+41
+00:03:46,760 --> 00:03:49,240
+<i>if we record the happy moments?</i>
+
+42
+00:03:49,320 --> 00:03:50,320
+<i>I'm trying it out.</i>
+
+43
+00:03:50,400 --> 00:03:52,000
+<i>But you didn't speak</i>
+
+44
+00:03:52,080 --> 00:03:53,960
+<i>when I asked you to speak earlier.</i>
+
+45
+00:03:54,040 --> 00:03:56,040
+<i>Rangrang, were you shy?</i>
+
+46
+00:03:56,560 --> 00:03:58,160
+<i>You can tell me in secret first.</i>
+
+47
+00:03:59,720 --> 00:04:00,560
+<i>No.</i>
+
+48
+00:04:02,320 --> 00:04:04,560
+<i>May 26th, 2013.</i>
+
+49
+00:04:04,640 --> 00:04:06,440
+<i>Mrs. Guan made a new dessert.</i>
+
+50
+00:04:07,920 --> 00:04:09,080
+<i>Su Zaizai liked it very much</i>
+
+51
+00:04:09,160 --> 00:04:10,200
+<i>and finished two big bowls.</i>
+
+52
+00:04:10,880 --> 00:04:13,200
+<i>No, a bowl and a half at most!</i>
+
+53
+00:04:15,560 --> 00:04:17,880
+<i>August 7th, 2013.</i>
+
+54
+00:04:17,959 --> 00:04:19,839
+<i>We watched the sunset in Baichuan today.</i>
+
+55
+00:04:21,680 --> 00:04:22,560
+<i>It was fun.</i>
+
+56
+00:04:23,840 --> 00:04:26,360
+<i>Today is January 15th, 2014.</i>
+
+57
+00:04:27,640 --> 00:04:28,520
+<i>It's a beautiful day.</i>
+
+58
+00:04:30,920 --> 00:04:32,040
+<i>It's easy to get sleepy.</i>
+
+59
+00:04:34,880 --> 00:04:36,760
+{\an8}<i>Rangrang, are you filming me?</i>
+
+60
+00:04:36,840 --> 00:04:37,720
+{\an8}<i>No.</i>
+
+61
+00:04:40,520 --> 00:04:43,360
+{\an8}<i>July 28th, 2015.</i>
+
+62
+00:04:44,280 --> 00:04:45,600
+{\an8}<i>We're in a relationship.</i>
+
+63
+00:04:50,600 --> 00:04:53,400
+<i>Today is October 3rd, 2016.</i>
+
+64
+00:04:53,480 --> 00:04:55,200
+<i>I'm waiting to have a meal with Zaizai.</i>
+
+65
+00:04:58,160 --> 00:04:59,080
+<i>Five,</i>
+
+66
+00:04:59,160 --> 00:05:00,160
+<i>four,</i>
+
+67
+00:05:00,240 --> 00:05:01,200
+<i>three,</i>
+
+68
+00:05:01,280 --> 00:05:02,160
+<i>two.</i>
+
+69
+00:05:02,240 --> 00:05:03,960
+<i>Hey, what are you doing?</i>
+
+70
+00:05:04,480 --> 00:05:06,680
+<i>I'm on a video call with my uncle.</i>
+
+71
+00:05:06,760 --> 00:05:07,600
+<i>What?</i>
+
+72
+00:05:09,760 --> 00:05:10,800
+<i>I'm just kidding.</i>
+
+73
+00:05:16,040 --> 00:05:18,480
+<i>January 20th, 2017.</i>
+
+74
+00:05:18,560 --> 00:05:20,800
+<i>Because of the extra boba in her milk tea,</i>
+
+75
+00:05:20,880 --> 00:05:22,160
+<i>she is overjoyed.</i>
+
+76
+00:05:22,240 --> 00:05:23,160
+<i>Rangrang!</i>
+
+77
+00:05:26,440 --> 00:05:28,760
+<i>June 26th, 2020.</i>
+
+78
+00:05:30,160 --> 00:05:31,560
+<i>After today's seminar,</i>
+
+79
+00:05:34,280 --> 00:05:35,480
+<i>I want to propose to her.</i>
+
+80
+00:05:45,040 --> 00:05:46,960
+For the first 17 years of my life,
+
+81
+00:05:47,840 --> 00:05:48,720
+I worked hard
+
+82
+00:05:48,800 --> 00:05:51,640
+just to keep the name Zhang Lurang alive.
+
+83
+00:05:53,320 --> 00:05:54,800
+That was until I met you.
+
+84
+00:05:55,480 --> 00:05:56,720
+<i>I had more to look forward to.</i>
+
+85
+00:05:58,640 --> 00:06:00,960
+<i>I looked forward to you
+popping up unexpectedly.</i>
+
+86
+00:06:02,120 --> 00:06:03,800
+<i>I looked forward to sweaty gym classes.</i>
+
+87
+00:06:06,720 --> 00:06:08,960
+<i>I looked forward to every bus on Route 74.</i>
+
+88
+00:06:12,480 --> 00:06:14,120
+I began to look forward to tomorrow.
+
+89
+00:06:15,960 --> 00:06:16,840
+Maybe
+
+90
+00:06:19,560 --> 00:06:21,440
+I just looked forward to what you said
+
+91
+00:06:21,520 --> 00:06:22,840
+<i>every night.</i>
+
+92
+00:06:22,920 --> 00:06:23,880
+<i>"See you tomorrow."</i>
+
+93
+00:06:25,320 --> 00:06:26,440
+<i>Then</i>
+
+94
+00:06:27,880 --> 00:06:29,320
+<i>I always wished</i>
+
+95
+00:06:29,400 --> 00:06:30,640
+<i>I could spend</i>
+
+96
+00:06:30,720 --> 00:06:32,400
+<i>more and more time</i>
+
+97
+00:06:32,480 --> 00:06:33,360
+<i>with you.</i>
+
+98
+00:06:35,720 --> 00:06:36,720
+<i>Later on,</i>
+
+99
+00:06:38,120 --> 00:06:39,400
+<i>I was no longer satisfied.</i>
+
+100
+00:06:41,840 --> 00:06:42,960
+<i>I wish</i>
+
+101
+00:06:43,640 --> 00:06:45,440
+<i>that you are the first person I see</i>
+
+102
+00:06:45,520 --> 00:06:46,920
+<i>when I wake up in the morning.</i>
+
+103
+00:06:50,120 --> 00:06:51,880
+<i>I want to watch movies with you</i>
+
+104
+00:06:51,960 --> 00:06:53,280
+<i>in my free time.</i>
+
+105
+00:06:54,240 --> 00:06:56,200
+We could go for a walk after dinner.
+
+106
+00:06:57,880 --> 00:06:59,520
+Perhaps we will
+
+107
+00:07:00,760 --> 00:07:01,800
+have a child.
+
+108
+00:07:03,560 --> 00:07:04,680
+I'll teach him math.
+
+109
+00:07:04,760 --> 00:07:06,040
+You will teach him English.
+
+110
+00:07:07,880 --> 00:07:09,160
+On his birthday,
+
+111
+00:07:10,520 --> 00:07:12,200
+we will make a cake for him.
+
+112
+00:07:22,360 --> 00:07:23,320
+Zaizai,
+
+113
+00:07:24,320 --> 00:07:25,520
+shall we get married?
+
+114
+00:07:32,880 --> 00:07:34,880
+I have a bank card.
+
+115
+00:07:36,560 --> 00:07:38,160
+What? Are you going to provide for me?
+
+116
+00:07:38,680 --> 00:07:40,800
+All my red packet money
+throughout childhood
+
+117
+00:07:40,880 --> 00:07:42,400
+is inside.
+
+118
+00:07:42,480 --> 00:07:43,960
+I haven't spent a penny.
+
+119
+00:07:45,680 --> 00:07:48,080
+I was saving it to buy rings.
+
+120
+00:07:48,160 --> 00:07:50,080
+I would like to think
+
+121
+00:07:50,160 --> 00:07:52,280
+that I've been saving money my whole life
+
+122
+00:07:52,360 --> 00:07:53,600
+just to marry you.
+
+123
+00:08:12,680 --> 00:08:13,840
+There is no backing out now.
+
+124
+00:08:35,360 --> 00:08:36,280
+Zaizai.
+
+125
+00:08:38,280 --> 00:08:40,000
+The station called me in
+at the last minute.
+
+126
+00:08:40,080 --> 00:08:41,799
+-Did you wait long?
+-I just arrived too.
+
+127
+00:08:41,880 --> 00:08:43,400
+Have you finished your work?
+
+128
+00:08:43,480 --> 00:08:44,360
+Of course.
+
+129
+00:08:44,440 --> 00:08:45,480
+My best friend is engaged.
+
+130
+00:08:45,560 --> 00:08:47,720
+Your unmarried days are numbered.
+
+131
+00:08:47,800 --> 00:08:49,160
+I can't miss this.
+
+132
+00:08:49,240 --> 00:08:50,520
+Let's check out wedding dresses.
+
+133
+00:08:51,640 --> 00:08:53,480
+You can try some too.
+
+134
+00:08:53,560 --> 00:08:54,600
+I don't want to.
+
+135
+00:08:54,680 --> 00:08:56,080
+He hasn't proposed to me yet.
+
+136
+00:09:00,080 --> 00:09:01,400
+Hello. What's up?
+
+137
+00:09:01,480 --> 00:09:02,640
+<i>Are you guys done yet?</i>
+
+138
+00:09:02,720 --> 00:09:03,800
+<i>I'll come and pick you up.</i>
+
+139
+00:09:03,880 --> 00:09:05,080
+We haven't even started.
+
+140
+00:09:05,160 --> 00:09:06,280
+Don't worry about me.
+
+141
+00:09:06,360 --> 00:09:07,440
+I will go back on my own.
+
+142
+00:09:07,520 --> 00:09:08,560
+Okay, bye now.
+
+143
+00:09:14,240 --> 00:09:16,160
+<i>Don't you need someone to carry your bags?</i>
+
+144
+00:09:16,240 --> 00:09:17,760
+<i>Don't you think I'm a good fit?</i>
+
+145
+00:09:18,360 --> 00:09:19,560
+We don't need that.
+
+146
+00:09:19,640 --> 00:09:20,760
+I'm hanging up.
+
+147
+00:09:20,840 --> 00:09:22,440
+We're in a hurry.
+
+148
+00:09:24,560 --> 00:09:25,760
+Gu Ran, are you...
+
+149
+00:09:28,800 --> 00:09:29,720
+Zhang Lurang?
+
+150
+00:09:32,280 --> 00:09:33,920
+Zaizai is beside me.
+
+151
+00:09:35,560 --> 00:09:36,600
+Did she not pick up?
+
+152
+00:09:40,440 --> 00:09:42,000
+Her phone seems to be on silent.
+
+153
+00:09:42,720 --> 00:09:44,840
+We're not sure when we'll be back yet.
+
+154
+00:09:45,800 --> 00:09:47,600
+She will contact you then.
+
+155
+00:09:47,680 --> 00:09:49,360
+Okay, bye.
+
+156
+00:09:52,360 --> 00:09:53,240
+Let's go.
+
+157
+00:09:57,720 --> 00:09:58,800
+{\an8}-Cheers.
+-Cheers.
+
+158
+00:10:06,320 --> 00:10:07,960
+Time sure flies.
+
+159
+00:10:09,040 --> 00:10:10,200
+I remember this stall was here
+
+160
+00:10:10,280 --> 00:10:12,000
+when we were in junior high.
+
+161
+00:10:12,560 --> 00:10:14,480
+We used to come here on weekends.
+
+162
+00:10:15,760 --> 00:10:17,560
+This grilled eggplant is the best.
+
+163
+00:10:20,320 --> 00:10:21,240
+Zaizai,
+
+164
+00:10:21,320 --> 00:10:23,040
+I want to ask you something.
+
+165
+00:10:24,240 --> 00:10:27,400
+People say marriage is the grave of love.
+
+166
+00:10:27,480 --> 00:10:29,240
+Aren't you afraid
+
+167
+00:10:29,320 --> 00:10:31,000
+you will regret getting married so early?
+
+168
+00:10:33,360 --> 00:10:34,240
+Actually,
+
+169
+00:10:34,320 --> 00:10:35,680
+I regret it already.
+
+170
+00:10:36,160 --> 00:10:37,400
+What?
+
+171
+00:10:38,200 --> 00:10:40,280
+I should've proposed to Rangrang earlier.
+
+172
+00:10:40,360 --> 00:10:43,080
+We could've been celebrating
+our wedding anniversary now.
+
+173
+00:10:44,520 --> 00:10:46,080
+You're kidding again.
+
+174
+00:10:46,160 --> 00:10:48,160
+I'm not kidding, Jiangjiang.
+
+175
+00:10:48,720 --> 00:10:50,320
+Do you know how much hassle it is
+
+176
+00:10:50,400 --> 00:10:51,480
+to plan a wedding?
+
+177
+00:10:51,560 --> 00:10:52,880
+You have to check the guest list
+
+178
+00:10:52,960 --> 00:10:54,880
+and be involved in the planning.
+
+179
+00:10:54,960 --> 00:10:56,640
+You have to take care of everything
+
+180
+00:10:56,720 --> 00:10:57,960
+from the venue to the desserts.
+
+181
+00:10:58,040 --> 00:11:00,640
+Rangrang never asked me to do it,
+
+182
+00:11:00,720 --> 00:11:02,720
+but he worked in secret until midnight.
+
+183
+00:11:03,240 --> 00:11:04,880
+What makes a marriage worthwhile or not
+
+184
+00:11:04,960 --> 00:11:06,360
+is your partner's attitude.
+
+185
+00:11:07,520 --> 00:11:09,680
+I've been in love with Zhang Lurang
+for so many years.
+
+186
+00:11:09,760 --> 00:11:11,600
+If I don't even have
+this confidence in him,
+
+187
+00:11:11,680 --> 00:11:13,440
+then wouldn't I have a bad taste?
+
+188
+00:11:17,400 --> 00:11:20,600
+I wish you all the happiness in the world
+
+189
+00:11:20,680 --> 00:11:22,040
+and forever young.
+
+190
+00:11:22,120 --> 00:11:22,960
+To us.
+
+191
+00:11:23,840 --> 00:11:24,760
+Cheers.
+
+192
+00:11:33,040 --> 00:11:33,880
+Hello.
+
+193
+00:11:33,960 --> 00:11:35,080
+<i>Hello, Zhang Lurang.</i>
+
+194
+00:11:35,160 --> 00:11:36,520
+<i>You may have to come.</i>
+
+195
+00:11:36,600 --> 00:11:37,840
+What's wrong?
+
+196
+00:11:37,920 --> 00:11:41,320
+<i>Rangrang, come and take your baby home!</i>
+
+197
+00:11:41,400 --> 00:11:42,600
+<i>Zaizai, stay still.</i>
+
+198
+00:11:42,680 --> 00:11:44,320
+Send me your location. I'm coming now.
+
+199
+00:11:49,960 --> 00:11:51,240
+All right. We'll get going now.
+
+200
+00:11:51,760 --> 00:11:52,640
+She didn't drink much.
+
+201
+00:11:52,720 --> 00:11:54,000
+She should be sober in no time.
+
+202
+00:11:54,080 --> 00:11:55,200
+Drive safely.
+
+203
+00:11:55,280 --> 00:11:56,160
+Bye.
+
+204
+00:12:09,560 --> 00:12:11,440
+How was it?
+Did you have a good time today?
+
+205
+00:12:11,520 --> 00:12:13,640
+Yes. I even bought new clothes.
+
+206
+00:12:14,440 --> 00:12:15,280
+By the way,
+
+207
+00:12:15,360 --> 00:12:17,040
+when Zaizai was trying on wedding dresses,
+
+208
+00:12:17,120 --> 00:12:19,240
+I couldn't resist trying some on.
+
+209
+00:12:19,320 --> 00:12:21,160
+That shop's wedding dresses
+are really pretty.
+
+210
+00:12:23,760 --> 00:12:24,640
+Jiang Jia.
+
+211
+00:12:26,120 --> 00:12:28,640
+Why don't we also...
+
+212
+00:12:28,720 --> 00:12:29,720
+Stop it!
+
+213
+00:12:29,800 --> 00:12:30,960
+You can't propose so casually.
+
+214
+00:12:31,040 --> 00:12:32,880
+I'm not dressed up
+and my face isn't made up.
+
+215
+00:12:32,960 --> 00:12:34,080
+No way!
+
+216
+00:12:34,160 --> 00:12:35,600
+{\an8}I'll wait for you to be ready.
+
+217
+00:12:35,680 --> 00:12:36,800
+{\an8}Gu Ran, you're so annoying!
+
+218
+00:12:36,880 --> 00:12:38,080
+{\an8}You're ruining the surprise!
+
+219
+00:12:45,560 --> 00:12:49,640
+<i>You won me over just like this</i>
+
+220
+00:12:50,400 --> 00:12:54,600
+<i>All my ways out have been blocked</i>
+
+221
+00:12:55,160 --> 00:12:56,720
+<i>My...</i>
+
+222
+00:12:56,800 --> 00:12:59,600
+<i>Something and something</i>
+
+223
+00:12:59,680 --> 00:13:04,000
+<i>My love and hate are...</i>
+
+224
+00:13:05,320 --> 00:13:07,520
+Rangrang, am I a good singer?
+
+225
+00:13:08,760 --> 00:13:09,720
+Yes.
+
+226
+00:13:10,640 --> 00:13:12,200
+But you don't even applaud.
+
+227
+00:13:20,440 --> 00:13:21,480
+Rangrang,
+
+228
+00:13:21,960 --> 00:13:23,760
+your face is so cold.
+
+229
+00:13:23,840 --> 00:13:25,640
+Are you feeling cold?
+
+230
+00:13:26,360 --> 00:13:29,280
+Let me warm you up.
+
+231
+00:13:34,360 --> 00:13:35,680
+Hubby, be good.
+
+232
+00:13:38,760 --> 00:13:39,680
+What did you call me?
+
+233
+00:13:39,760 --> 00:13:40,760
+I didn't hear it.
+
+234
+00:13:41,360 --> 00:13:42,920
+Hubby.
+
+235
+00:13:55,440 --> 00:13:57,000
+Why can't I warm you up?
+
+236
+00:13:57,080 --> 00:13:59,160
+Why?
+
+237
+00:13:59,240 --> 00:14:00,360
+Why are you crying again?
+
+238
+00:14:00,440 --> 00:14:01,360
+What's wrong?
+
+239
+00:14:01,440 --> 00:14:05,120
+I can't control myself.
+
+240
+00:14:10,680 --> 00:14:12,240
+I'm so silly.
+
+241
+00:14:16,080 --> 00:14:17,000
+I'm so silly.
+
+242
+00:14:17,080 --> 00:14:20,200
+Rangrang won't like me anymore.
+
+243
+00:14:20,280 --> 00:14:21,400
+That's not true.
+
+244
+00:14:21,880 --> 00:14:23,680
+You don't even kiss me.
+
+245
+00:14:23,760 --> 00:14:24,920
+You don't love me.
+
+246
+00:14:25,000 --> 00:14:28,560
+You don't like me anymore.
+
+247
+00:14:30,280 --> 00:14:33,400
+You don't even kiss, hug,
+
+248
+00:14:33,480 --> 00:14:34,560
+or lift me up.
+
+249
+00:14:48,320 --> 00:14:49,760
+Call me hubby again.
+
+250
+00:14:51,760 --> 00:14:53,560
+Hubby.
+
+251
+00:16:00,640 --> 00:16:03,640
+Rangrang, I love you so much.
+
+252
+00:16:16,640 --> 00:16:17,560
+I know.
+
+253
+00:16:44,320 --> 00:16:45,680
+Next, please welcome
+
+254
+00:16:45,760 --> 00:16:49,000
+our beautiful and graceful bride!
+
+255
+00:16:49,080 --> 00:16:49,960
+ZHANG LURANG, SU ZAIZAI
+
+256
+00:17:11,520 --> 00:17:12,359
+I bet your brother
+
+257
+00:17:12,440 --> 00:17:13,880
+wasn't this nervous about the NCEE.
+
+258
+00:17:17,760 --> 00:17:19,520
+I didn't want to cry,
+
+259
+00:17:20,200 --> 00:17:22,160
+but I couldn't help it.
+
+260
+00:17:23,680 --> 00:17:25,560
+My makeup is running.
+
+261
+00:17:26,160 --> 00:17:27,480
+It's okay.
+
+262
+00:17:55,040 --> 00:17:56,160
+I'm entrusting my daughter
+
+263
+00:17:58,360 --> 00:17:59,280
+to you.
+
+264
+00:18:31,160 --> 00:18:33,200
+Bride and groom, do you have anything
+
+265
+00:18:33,280 --> 00:18:34,760
+you would like to say to each other?
+
+266
+00:18:39,560 --> 00:18:41,480
+Starting from when I was 16,
+
+267
+00:18:41,560 --> 00:18:42,920
+my New Year's wish every year
+
+268
+00:18:43,000 --> 00:18:44,560
+was to marry you.
+
+269
+00:18:44,640 --> 00:18:45,480
+It seems
+
+270
+00:18:45,560 --> 00:18:47,360
+that making the same wish many times
+
+271
+00:18:47,440 --> 00:18:48,560
+will make it come true.
+
+272
+00:18:53,320 --> 00:18:54,520
+I'm honored.
+
+273
+00:18:55,080 --> 00:18:57,000
+-Kiss!
+-Kiss!
+
+274
+00:18:57,080 --> 00:18:58,920
+-Kiss!
+-Kiss!
+
+275
+00:18:59,000 --> 00:19:00,400
+-Kiss!
+-Kiss!
+
+276
+00:19:00,480 --> 00:19:02,240
+-Kiss!
+-Kiss!
+
+277
+00:19:02,320 --> 00:19:03,600
+-Kiss!
+-Kiss!
+
+278
+00:19:03,680 --> 00:19:05,120
+-Kiss!
+-Kiss!
+
+279
+00:19:05,200 --> 00:19:07,280
+-Kiss!
+-Kiss!
+
+280
+00:19:07,360 --> 00:19:09,000
+-Kiss!
+-Kiss!
+
+281
+00:19:09,080 --> 00:19:09,960
+-Kiss!
+-Kiss!
+
+282
+00:19:15,840 --> 00:19:17,040
+<i>June 17th,</i>
+
+283
+00:19:17,120 --> 00:19:18,680
+<i>early summer.</i>
+
+284
+00:19:18,760 --> 00:19:21,640
+<i>Today, I finally married Zhang Lurang.</i>
+
+285
+00:19:22,560 --> 00:19:26,240
+<i>No, it's that he has finally married me.</i>
+
+286
+00:19:33,640 --> 00:19:36,680
+<i>Today should be my most unforgettable day.</i>
+
+287
+00:19:36,760 --> 00:19:37,880
+<i>That's not right either.</i>
+
+288
+00:19:38,400 --> 00:19:40,840
+<i>There were many unforgettable days</i>
+
+289
+00:19:40,920 --> 00:19:41,880
+<i>in my youth.</i>
+
+290
+00:19:43,240 --> 00:19:44,600
+<i>The starlight and the cicadas</i>
+
+291
+00:19:44,680 --> 00:19:45,840
+<i>on the day we stood guard</i>
+
+292
+00:19:45,920 --> 00:19:47,280
+<i>at the military training base,</i>
+
+293
+00:19:47,360 --> 00:19:49,000
+<i>the light that fell on us</i>
+
+294
+00:19:49,080 --> 00:19:50,600
+<i>during the play,</i>
+
+295
+00:19:52,240 --> 00:19:53,960
+<i>the train that escaped doomsday,</i>
+
+296
+00:19:55,560 --> 00:19:57,400
+<i>the sunset we watched together
+in Baichuan,</i>
+
+297
+00:19:58,840 --> 00:20:00,480
+<i>partying at a music festival</i>
+
+298
+00:20:00,560 --> 00:20:01,680
+<i>with a big crowd,</i>
+
+299
+00:20:02,280 --> 00:20:03,160
+<i>the first snow</i>
+
+300
+00:20:03,240 --> 00:20:05,440
+<i>that falls every year,</i>
+
+301
+00:20:06,520 --> 00:20:08,480
+<i>and the goodbyes at sunrise.</i>
+
+302
+00:20:09,760 --> 00:20:10,840
+<i>We cried,</i>
+
+303
+00:20:10,920 --> 00:20:12,000
+<i>laughed,</i>
+
+304
+00:20:12,080 --> 00:20:13,480
+<i>parted,</i>
+
+305
+00:20:13,560 --> 00:20:14,720
+<i>and met again.</i>
+
+306
+00:20:15,640 --> 00:20:17,400
+<i>The charm of youth</i>
+
+307
+00:20:17,480 --> 00:20:19,160
+{\an8}<i>is never about getting what you want,</i>
+
+308
+00:20:19,800 --> 00:20:22,760
+<i>but about every unexpected tomorrow</i>
+
+309
+00:20:24,040 --> 00:20:27,720
+-You're all so fast.
+<i>-and every person you meet by chance.</i>
+
+310
+00:20:29,760 --> 00:20:32,680
+<i>I wonder when this young boy</i>
+
+311
+00:20:32,760 --> 00:20:35,040
+<i>who exchanged a quick glance with me</i>
+
+312
+00:20:35,120 --> 00:20:36,320
+<i>under the eaves</i>
+
+313
+00:20:36,400 --> 00:20:38,200
+<i>began to take place in my world.</i>
+
+314
+00:20:39,280 --> 00:20:41,360
+<i>And I have become best friends</i>
+
+315
+00:20:41,440 --> 00:20:43,160
+<i>-with the people I have known</i>
+-Three, two,
+
+316
+00:20:43,240 --> 00:20:44,320
+<i>-since I was young.</i>
+-one!
+
+317
+00:20:47,560 --> 00:20:49,000
+What are you blushing about?
+
+318
+00:20:49,080 --> 00:20:51,000
+Why are you blushing?
+
+319
+00:20:51,080 --> 00:20:52,240
+Go!
+
+320
+00:20:55,440 --> 00:20:58,920
+<i>-Congratulations on your wedding!
+-The story began in the summer of 2012,</i>
+
+321
+00:20:59,400 --> 00:21:00,960
+<i>but it will never end.</i>
+
+322
+00:21:02,120 --> 00:21:04,120
+<i>Our robust youth</i>
+
+323
+00:21:04,200 --> 00:21:06,200
+<i>-may make a comeback
+-Kiss!</i>
+
+324
+00:21:06,280 --> 00:21:07,520
+<i>sometime in the future.</i>
+
+325
+00:21:07,600 --> 00:21:08,760
+-Kiss!
+-Kiss!
+
+326
+00:21:08,840 --> 00:21:10,960
+<i>Even if we will no longer be young then</i>
+
+327
+00:21:12,160 --> 00:21:13,480
+<i>and the sun has set,</i>
+
+328
+00:21:13,560 --> 00:21:15,120
+<i>-our love will remain the same.</i>
+-Smile!
+
+329
+00:21:15,840 --> 00:21:18,720
+<i>-Your heart will still race</i>
+-What are you waiting for?
+
+330
+00:21:18,800 --> 00:21:21,760
+<i>when I fly towards you.</i>
+
+331
+00:22:06,200 --> 00:22:07,280
+Go to sleep.
+
+332
+00:22:08,240 --> 00:22:10,520
+Rangrang, what time are you leaving
+for your business trip?
+
+333
+00:22:11,560 --> 00:22:12,720
+Seven in the morning,
+
+334
+00:22:12,800 --> 00:22:14,760
+so I can't wake you up.
+
+335
+00:22:14,840 --> 00:22:16,320
+Sleep early.
+
+336
+00:22:19,760 --> 00:22:20,800
+Come and sleep beside me.
+
+337
+00:22:31,520 --> 00:22:32,480
+I've got it.
+
+338
+00:22:39,280 --> 00:22:40,280
+Let's sleep.
+
+339
+00:22:42,160 --> 00:22:44,840
+Rangrang, I have a question for you.
+
+340
+00:22:44,920 --> 00:22:45,880
+What?
+
+341
+00:22:45,960 --> 00:22:48,880
+If one thing is to be taken away from you,
+
+342
+00:22:48,960 --> 00:22:50,800
+would you choose to keep me
+
+343
+00:22:50,880 --> 00:22:51,800
+or your handsome face?
+
+344
+00:22:51,880 --> 00:22:52,800
+You.
+
+345
+00:22:52,880 --> 00:22:54,880
+What if it is between me and your height?
+
+346
+00:22:54,960 --> 00:22:56,080
+You.
+
+347
+00:22:56,160 --> 00:22:57,640
+What if it is between me and money?
+
+348
+00:22:57,720 --> 00:22:59,200
+Why are you asking me this?
+
+349
+00:23:00,080 --> 00:23:02,200
+Rangrang, you hesitated.
+
+350
+00:23:02,280 --> 00:23:03,880
+You wanted to choose money!
+
+351
+00:23:03,960 --> 00:23:05,960
+You prefer money over me!
+
+352
+00:23:07,600 --> 00:23:10,280
+I'll give you all my money then.
+
+353
+00:23:14,720 --> 00:23:15,800
+I will always choose you.
+
+354
+00:23:18,440 --> 00:23:19,720
+But Rangrang,
+
+355
+00:23:19,800 --> 00:23:23,200
+you won't be tall, rich,
+or handsome anymore.
+
+356
+00:23:23,280 --> 00:23:25,120
+I might not be fond of you anymore.
+
+357
+00:23:25,200 --> 00:23:26,440
+Are you afraid of that?
+
+358
+00:23:26,520 --> 00:23:28,720
+I thought you said
+only one thing would be taken.
+
+359
+00:23:28,800 --> 00:23:30,680
+Who knows what might happen?
+
+360
+00:23:33,360 --> 00:23:34,800
+I'm not afraid.
+
+361
+00:23:34,880 --> 00:23:35,920
+Why?
+
+362
+00:23:41,120 --> 00:23:42,080
+There is no reason.
+
+363
+00:23:47,120 --> 00:23:48,920
+You're just sure that I love you.
+
+364
+00:23:59,560 --> 00:24:00,440
+What are you watching?
+
+365
+00:24:01,840 --> 00:24:03,640
+A fantasy movie.
+
+366
+00:24:10,760 --> 00:24:11,840
+Hey, Rangrang.
+
+367
+00:24:11,920 --> 00:24:14,080
+If you could travel back in time,
+
+368
+00:24:14,160 --> 00:24:15,880
+is there anything
+that you really want to do?
+
+369
+00:24:18,920 --> 00:24:19,800
+I don't know.
+
+370
+00:24:20,800 --> 00:24:22,440
+How can you not know?
+
+371
+00:24:23,280 --> 00:24:25,960
+Is there nothing you really want to do?
+
+372
+00:24:28,160 --> 00:24:30,400
+Only those who have regrets
+want to go back in time.
+
+373
+00:24:31,480 --> 00:24:32,960
+But I don't have any.
+
+374
+00:24:34,360 --> 00:24:35,760
+I had a good past
+
+375
+00:24:36,920 --> 00:24:38,160
+and I have a wonderful present.
+
+376
+00:24:41,440 --> 00:24:42,600
+What about you?
+
+377
+00:24:43,280 --> 00:24:44,640
+Is there anything you want to do?
+
+378
+00:25:00,640 --> 00:25:02,000
+I want to kiss.
+
+379
+00:25:16,760 --> 00:25:17,800
+You don't have to "want."
+
+380
+00:25:19,640 --> 00:25:20,880
+You can just kiss me.
+
+381
+00:25:34,440 --> 00:25:36,920
+Rangrang, where are you?
+
+382
+00:25:37,520 --> 00:25:38,880
+<i>I just got off work.</i>
+
+383
+00:25:38,960 --> 00:25:40,200
+<i>I'm on my way to your office.</i>
+
+384
+00:25:40,800 --> 00:25:42,360
+I'm not at my office.
+
+385
+00:25:42,440 --> 00:25:44,120
+I took this afternoon off.
+
+386
+00:25:44,200 --> 00:25:45,760
+Can you pick me up
+
+387
+00:25:45,840 --> 00:25:47,360
+at Changfeng Street near our home?
+
+388
+00:25:48,480 --> 00:25:50,320
+<i>Sure. I'll be there in five minutes.</i>
+
+389
+00:26:06,160 --> 00:26:07,400
+Rangrang.
+
+390
+00:26:09,760 --> 00:26:11,560
+Where did you go with your afternoon off?
+
+391
+00:26:12,360 --> 00:26:13,280
+The hospital.
+
+392
+00:26:14,640 --> 00:26:15,560
+The hospital?
+
+393
+00:26:18,720 --> 00:26:19,560
+What's wrong?
+
+394
+00:26:25,560 --> 00:26:26,480
+You...
+
+395
+00:26:27,040 --> 00:26:28,320
+Don't scare me.
+
+396
+00:26:28,400 --> 00:26:29,920
+What is going on?
+
+397
+00:26:32,400 --> 00:26:34,120
+I'm pregnant.
+
+398
+00:26:46,520 --> 00:26:49,080
+I said that we are going to have a baby.
+
+399
+00:26:49,160 --> 00:26:50,360
+What kind of reaction is this?
+
+400
+00:27:02,720 --> 00:27:03,840
+I have dreamed about this
+
+401
+00:27:06,160 --> 00:27:07,560
+so many times.
+
+402
+00:27:08,920 --> 00:27:09,840
+Thank you.
+
+403
+00:27:13,640 --> 00:27:14,760
+Rangrang, you are going
+
+404
+00:27:14,840 --> 00:27:16,480
+to have to make money
+
+405
+00:27:16,560 --> 00:27:18,160
+to buy milk powder for Youyou.
+
+406
+00:27:18,240 --> 00:27:19,120
+Youyou?
+
+407
+00:27:20,560 --> 00:27:22,240
+It's the name I came up with for our baby.
+
+408
+00:27:22,320 --> 00:27:23,280
+What do you think?
+
+409
+00:27:25,960 --> 00:27:26,840
+It sounds great.
+
+410
+00:27:32,680 --> 00:27:33,600
+Zaizai,
+
+411
+00:27:34,160 --> 00:27:35,840
+{\an8}I heard you took the afternoon off.
+
+412
+00:27:35,920 --> 00:27:37,760
+Why? Are you going home
+to look after your baby?
+
+413
+00:27:38,640 --> 00:27:40,440
+Youyou is with my parents.
+
+414
+00:27:40,520 --> 00:27:42,960
+I'm going back
+to my high school for a reunion.
+
+415
+00:27:47,560 --> 00:27:48,760
+What are you taking with you?
+
+416
+00:27:48,840 --> 00:27:50,200
+Our school uniform.
+
+417
+00:27:50,280 --> 00:27:52,320
+We agreed to show up wearing it.
+
+418
+00:27:55,640 --> 00:27:56,560
+Rangrang.
+
+419
+00:27:57,480 --> 00:27:59,200
+Are you here already?
+
+420
+00:27:59,280 --> 00:28:00,640
+I'll come out right away.
+
+421
+00:28:02,720 --> 00:28:03,760
+I'm leaving. Bye.
+
+422
+00:28:03,840 --> 00:28:04,960
+-Bye.
+-Bye.
+
+423
+00:28:15,160 --> 00:28:16,080
+Rangrang.
+
+424
+00:28:19,400 --> 00:28:21,440
+{\an8}<i>If fate could have told me in advance</i>
+
+425
+00:28:22,280 --> 00:28:24,000
+{\an8}<i>that I would meet such a person,</i>
+
+426
+00:28:25,440 --> 00:28:26,880
+<i>could I have chosen</i>
+
+427
+00:28:26,960 --> 00:28:28,520
+<i>to meet her a little earlier?</i>
+
+428
+00:28:30,840 --> 00:28:32,880
+<i>For a long time afterward,</i>
+
+429
+00:28:33,800 --> 00:28:34,760
+<i>I thought of that scene</i>
+
+430
+00:28:34,840 --> 00:28:36,440
+<i>over and over again.</i>
+
+431
+00:28:37,520 --> 00:28:39,000
+<i>She stood under the eaves</i>
+
+432
+00:28:39,920 --> 00:28:41,480
+<i>with her extraordinarily bright eyes</i>
+
+433
+00:28:41,560 --> 00:28:43,080
+<i>looking at me through the rain.</i>
+
+434
+00:28:44,800 --> 00:28:45,840
+<i>That glance</i>
+
+435
+00:28:46,800 --> 00:28:48,080
+<i>seemed to hint at me</i>
+
+436
+00:28:49,400 --> 00:28:50,800
+<i>that my light has come.</i>
+
+437
+00:29:00,840 --> 00:29:02,080
+<i>It was that glance,</i>
+
+438
+00:29:02,560 --> 00:29:04,600
+<i>just that quick glance,</i>
+
+439
+00:29:04,680 --> 00:29:07,080
+<i>that brought us together for life</i>
+
+440
+00:29:08,080 --> 00:29:10,240
+<i>so precisely.</i>
